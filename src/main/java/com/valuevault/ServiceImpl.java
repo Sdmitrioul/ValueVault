@@ -1,6 +1,6 @@
 package com.valuevault;
 
-public class ServerImpl {
+public class ServiceImpl {
     public static void main(String[] args) {
     
     }

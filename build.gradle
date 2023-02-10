@@ -38,7 +38,7 @@ dependencies {
 }
 
 application {
-    mainClass = 'com.valuevault.ServerImpl'
+    mainClass = 'com.valuevault.ServiceImpl'
     applicationDefaultJvmArgs = ['-Xmx128m']
 }
 
